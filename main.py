@@ -1,0 +1,2 @@
+import ez
+ez.main()
