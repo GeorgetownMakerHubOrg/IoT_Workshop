@@ -1,6 +1,6 @@
-#IoT Class Outline
+# IoT Class Outline
 
-##Introduction
+## Introduction
 
 - Establish Terminology/Concepts (1 slide - 15 minutes) - Use Bookmarks
 - IoT - Show IFTTT screen
@@ -10,9 +10,9 @@
 - What We Will Attempt (1 slide 5 minutes)
 - A Modifiable Staples Easy Button - SMS webhook
 
-##Project - ambitious for 90 minutes
+## Project - ambitious for 90 minutes
 
-###Steps
+### Steps
 
 - Create IFTTT account  & create one recipe without IoT (tbd) (15 minutes)
 - Download Git IoT repo from Gtown (download zip) (5 minutes)
@@ -25,5 +25,5 @@
 - Upload and get SMS message (5 minutes)
 - Change recipe
 
-##Notes
+## Notes
 https://github.com/adafruit/ampy/issues/19 - there might be issues with ampy, Mac, and D1 - use ‘-d 0.5’
